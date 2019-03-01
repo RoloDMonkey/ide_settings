@@ -1,6 +1,8 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <scope name="Changed Files" level="ERROR" enabled="true" />
+    <scope name="Changed Files" level="ERROR" enabled="true">
+      <option name="INSTALLED_PATHS" value="$USER_HOME$/.composer/global/drupal/coder/vendor/drupal/coder/coder_sniffer" />
+    </scope>
   </inspection_tool>
 </profile>
