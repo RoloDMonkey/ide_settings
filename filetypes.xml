@@ -10,6 +10,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".lando.yml.example" type="YAML" />
+      <mapping pattern=".lando.local.yml.example" type="YAML" />
     </extensionMap>
   </component>
 </application>
