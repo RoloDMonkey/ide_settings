@@ -1,17 +1,21 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="behat" type="Bash" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="info" type="Ini" />
-      <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".lando.yml.example" type="YAML" />
+      <mapping ext="tsv" type="TSV" />
       <mapping pattern=".lando.local.yml.example" type="YAML" />
+      <mapping pattern=".lando.yml.example" type="YAML" />
+      <mapping pattern="behat" type="Bash" />
     </extensionMap>
   </component>
 </application>
