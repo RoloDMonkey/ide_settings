@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="info" type="Ini" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="htaccess" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping pattern="acquia-cloudapi-setup" type="Shell Script" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
+    </extensionMap>
+  </component>
+</application>
