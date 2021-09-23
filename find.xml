@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/docroot/modules/custom'" />
-    <option name="defaultScopeName" value="Directory '…/docroot/modules/custom'" />
-    <option name="SEARCH_SCOPE" value="Directory '…/docroot/modules/custom'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,5 +16,6 @@
     <mask>*.routing.yml</mask>
     <mask>.gitignore</mask>
     <mask>*.js</mask>
+    <mask>*.info.yml</mask>
   </component>
 </application>
