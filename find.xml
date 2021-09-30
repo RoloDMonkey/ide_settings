@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/docroot/modules/custom/kab_ax_orders/bar.json'" />
-    <option name="defaultScopeName" value="File '…/docroot/modules/custom/kab_ax_orders/bar.json'" />
-    <option name="SEARCH_SCOPE" value="File '…/docroot/modules/custom/kab_ax_orders/bar.json'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
