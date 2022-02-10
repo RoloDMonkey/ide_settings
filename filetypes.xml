@@ -9,6 +9,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="mysql" type="SQL" />
       <mapping pattern=".lando.local.yml.example" type="YAML" />
       <mapping pattern=".lando.yml.example" type="YAML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
