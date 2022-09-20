@@ -14,12 +14,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.routing.yml</mask>
     <mask>.gitignore</mask>
     <mask>*.info.yml</mask>
     <mask>drush.services.yml</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
