@@ -4,7 +4,7 @@
     <property name="created">2017-04-07T12:52:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2022-03-09T14:12:58</property>
+    <property name="modified">2023-06-30T11:50:20</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -95,8 +95,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="c78338" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -163,7 +162,10 @@
       </value>
     </option>
     <option name="TEXT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
